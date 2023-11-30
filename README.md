@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Currently working on an app called re:Searcher which seeks to make open access research more accessible.**
+- 🔭 I’m currently working on **an app called re:Searcher which seeks to make open access research more accessible.**
 - 🌱 I’m currently learning **Spring Security, C++ for game dev, React Query, there is always more to learn!**
 - 💬 Ask me about **Java! I'm Oracle Certified in Java 17 so I know a thing or two**
 - 📫 How to reach me: **livsilbernberg@gmail.com... for now**
